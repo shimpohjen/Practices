@@ -1,0 +1,65 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	border:solid thin;
+	margin:20px auto;
+	width:1000px;
+}
+.banner{
+	border-bottom:solid thin;
+	padding:0px 10px;
+}
+.login-state{
+	width:150px;
+	margin:0px 0px 0px 500px;
+}
+.login-state a{
+	margin:0px 10px;
+}
+.banner *{
+	display:inline-block;
+	vertical-align:text-bottom;
+}
+
+.forms, .message-groups{
+	width:900px;
+	padding:20px 0px 0px 0px;
+	margin:0px auto;
+}
+textarea{
+		height:50px;
+		width:900px;
+		margin:10px 0px;
+	}
+
+input[type='submit']{
+		margin-left:750px;
+		width:120px;
+	}
+
+.message{
+	margin:10px 0px;
+}
+.error{
+	color:red;
+}
+.commentdiv{
+	margin:10px 0px 0px 40px;	
+}
+.commentdiv input[type='submit']{
+		margin-left:700px;
+		width:120px;
+}
+
+.commentform{
+	display:block;
+}
+.commentform textarea{
+	height:50px;
+	width:850px;
+}
+h3, h4{
+	margin-top:10px;
+}

@@ -1,0 +1,19 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	width:400px;
+	margin:100px auto;
+}
+input{
+	margin:5px auto;
+	min-width:50px;
+}
+div{
+	margin:0px 80px;
+}
+.errors{
+	color:red;
+	font-size:10px;
+}
